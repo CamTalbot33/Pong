@@ -1,7 +1,7 @@
 HOCKEY STYLE (to already existing game)
 - add ice looking background to already existing game
 - add timer into the game (10 seconds each * 3) if tied at the end of all 3 10 second periods, go to 5 second sudden death Over Time period,
-if still tied go to best of three shootout.
+  if still tied go to best of three shootout.
 - add buzzer sound to determine when period is done
 - give 5 seconds in between periods to rest
 - add goal horn for Player 1 goal
