@@ -1,0 +1,18 @@
+HOCKEY STYLE (to already existing game)
+- add ice looking background to already existing game
+- add timer into the game (10 seconds each * 3) if tied at the end of all 3 10 second periods, go to 5 second sudden death Over Time period,
+if still tied go to best of three shootout.
+- add buzzer sound to determine when period is done
+- give 5 seconds in between periods to rest
+- add goal horn for Player 1 goal
+- add different goal horn for Player 2 goal
+- change ball into hockey puck style look
+- make Player 1 paddle into a hockey stick
+- make Player 2 paddle into a hockey stick
+- rotate player 1 hockey stick so it faces Player 2 hockey stick
+- rotate player 2 hockey stick so it faces Player 1 hockey stick
+- add slap shot availability to player 1 by pressing the "D" key on the keyboard
+- add wrist shot availability to player 1 by pressing the "A" key on the keyboard
+- add slap shot availability to player 2 by pressing the "left" arrow key on the keyboard
+- add wrist shost availability to player 1 by pressing the "right" key on the keyboard
+
